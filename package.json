@@ -1,0 +1,19 @@
+{
+  "name": "quan-ly-nha-tro",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "^3.1.0",
+    "express": "^4.16.3",
+    "hbs": "~4.0.1",
+    "moment": "^2.22.0",
+    "mongoose": "^5.0.14",
+    "morgan": "~1.9.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
