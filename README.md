@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 
+<!-- Mirrored from quan-ly-nha-tro.herokuapp.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 13 Jul 2020 11:07:57 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
 	<title>Quản lý nhà trọ</title>
 	<link rel="stylesheet" type="text/css"
 		  href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
